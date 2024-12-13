@@ -1,4 +1,4 @@
-### **Movie-Booking-System-Java**
+<h2>### **Movie-Booking-System-Java**</h2>
 
 A Java-based Movie Ticket Booking System with a user-friendly **Swing GUI** that allows users to select movies, choose seats, and book tickets seamlessly.
 
