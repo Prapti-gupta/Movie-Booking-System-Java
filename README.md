@@ -1,4 +1,4 @@
-### **=Movie-Booking-System-Java**
+### **Movie-Booking-System-Java**
 
 A Java-based Movie Ticket Booking System with a user-friendly **Swing GUI** that allows users to select movies, choose seats, and book tickets seamlessly.
 
@@ -15,27 +15,6 @@ A Java-based Movie Ticket Booking System with a user-friendly **Swing GUI** that
 ### **Requirements**
 - **Java Development Kit (JDK):** Version 8 or later
 - **IDE (Optional):** IntelliJ IDEA, Eclipse, or NetBeans
-
----
-
-### **How to Run**
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/movie-ticket-booking.git
-   cd movie-ticket-booking
-   ```
-
-2. **Compile the Code:**
-   Open a terminal or command prompt and run:
-   ```bash
-   javac *.java
-   ```
-
-3. **Run the Application:**
-   Execute the main class:
-   ```bash
-   java Main
-   ```
 
 ---
 
